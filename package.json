@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "autoprefixer": "^7.2.6",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "pug": "^2.0.3",
     "pug-plain-loader": "^1.0.0",
